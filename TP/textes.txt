@@ -1,0 +1,1 @@
+Mon TP se porte sur les requettes de l'odjet XMLHttpRequest
